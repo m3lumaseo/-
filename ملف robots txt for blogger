@@ -1,0 +1,7 @@
+User-agent: Mediapartners-Google Disallow:
+
+User-agent: * Disallow: /search Allow: /
+
+Sitemap: https://ma3luma
+
+seo.blogspot.com/sitemap.xml
